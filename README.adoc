@@ -11,7 +11,7 @@ These documents are available in its rendered forms here:
 This is the IHO repository for developing the next edition of
 "S-102 Bathymetric Surface Product Specification".
 
-WARNING: The contents of this repository are in draft form and not yet in force.
+WARNING: The contents of this repository are in draft form and not necessarily in force.
 Please refer to the final versions published on the official
 https://iho.int[IHO] website.
 
